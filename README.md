@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahbub2001
+- 👋 Hi, I’m @Mahbub Ahmed Turza
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate on ...
