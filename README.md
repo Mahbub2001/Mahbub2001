@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mahbub Ahmed Turza
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ language
+- 🌱 I’m currently learning Full Stack Web Developing
+- 🤙I am good at C,Python,Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
