@@ -24,7 +24,9 @@
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100076033624420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100076033624420" height="30" width="40" /></a>
 </p>
 
-✅ C
+👨‍💻 Skills & Experiance:
+<hr>
+<p>✅ C</p>
 ✅ C++
 ✅ Python
 ✅ Javascript
