@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub2001&" alt="mahbub2001" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001&layout=compact)](https://github.com/Mahbub2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001)](https://github.com/Mahbub2001/github-readme-stats)
