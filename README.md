@@ -24,14 +24,14 @@
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100076033624420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100076033624420" height="30" width="40" /></a>
 </p>
 
-👨‍💻 Skills & Experiance:
+<p>👨‍💻 Skills & Experiance:</p>
 <hr>
 <p>✅ C</p>
-✅ C++
-✅ Python
-✅ Javascript
-✅ HTML5 / CSS3 
-✅ Photoshop / Illustrator/Premier Pro
+<p>✅ C++</p>
+<p>✅ Python</p>
+<p>✅ Javascript</p>
+<p>✅ HTML5 / CSS3</p>
+<p>✅ Photoshop / Illustrator/Premier Pro</p>
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001&theme=tokyonight)](https://github.com/Mahbub2001/github-readme-stats)
