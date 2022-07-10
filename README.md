@@ -25,7 +25,6 @@
 </p>
 
 <h2>👨‍💻 Skills & Experiance:</h2>
-<hr>
 <p>✅ C</p>
 <p>✅ C++</p>
 <p>✅ Python</p>
