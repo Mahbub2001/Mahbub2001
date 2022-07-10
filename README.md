@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub2001&" alt="mahbub2001" /></p>
 
-![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbub2001&theme=dark&show_icons=true)
+![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbub2001&theme=tokyonight&show_icons=true)
