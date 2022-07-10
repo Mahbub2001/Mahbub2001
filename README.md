@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Ahmed Turza</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub2001&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahbub2001&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub2001" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbub2001" alt="mahbub2001" /></a> </p> -->
 
@@ -33,11 +33,11 @@
 <p>✅ Photoshop / Illustrator/Premier Pro</p>
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub2001&theme=tokyonight)](https://github.com/mahbub2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001&theme=tokyonight)](https://github.com/Mahbub2001/github-readme-stats)
 
 ![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbub2001&theme=tokyonight&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub2001&theme=tokyonight" alt="mahbub2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=tokyonight" alt="Mahbub2001" /></p>
 
 
 
