@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub2001&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbub2001" alt="mahbub2001" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbub2001" alt="mahbub2001" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&" alt="Mahbub2001" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahbub2001&repo=github-readme-stats)](https://github.com/Mahbub2001/github-readme-stats)
+
 
