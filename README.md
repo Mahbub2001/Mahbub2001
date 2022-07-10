@@ -33,6 +33,6 @@
 ![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbub2001&theme=tokyonight&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&" alt="Mahbub2001" /></p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahbub2001)](https://github.com/Mahbub2001/github-readme-stats)
+[![Mahbub wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahbub2001)](https://github.com/Mahbub2001/github-readme-stats)
 
 
