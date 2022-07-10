@@ -37,7 +37,7 @@
 
 ![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub2001&theme=tokyonight&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=tokyonight" alt="Mahbub2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub2001&theme=tokyonight" alt="mahbub2001" /></p>
 
 
 
