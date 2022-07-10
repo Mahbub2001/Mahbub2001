@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&" alt="Mahbub2001" /></p>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahbub2001&repo=github-readme-stats)](https://github.com/Mahbub2001/github-readme-stats)
 
