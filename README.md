@@ -29,7 +29,7 @@
 <p>✅ C++</p>
 <p>✅ Python</p>
 <p>✅ Javascript</p>
-<p>✅ HTML5 / CSS3</p>
+<p>✅ HTML5 / CSS3/Bootstrap</p>
 <p>✅ Photoshop / Illustrator/Premier Pro</p>
  
 
