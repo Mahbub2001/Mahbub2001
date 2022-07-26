@@ -29,11 +29,11 @@
 <p>✅ C++</p>
 <p>✅ Python</p>
 <p>✅ Javascript</p>
-<p>✅ HTML5 / CSS3/Bootstrap</p>
+<p>✅ HTML5 / CSS3/Bootstrap/Tailwind</p>
 <p>✅ Photoshop / Illustrator/Premier Pro</p>
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub2001&theme=tokyonight)](https://github.com/mahbub2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub2001&theme=tokyonight)](https://github.com/Mahbub2001/github-readme-stats)
 
 <!--![Mahbub GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub2001&theme=tokyonight&show_icons=true)-->
 
