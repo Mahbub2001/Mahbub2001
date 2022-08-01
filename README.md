@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahbub Ahmed Turza</h1>
 <h3 align="center">A passionate programmer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Mahbub2001&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Development<br><br>🌱 I’m currently learning Full-Stack Web Development<br><br>💬 Ask me about C, Python, Arduino, CSS, HTML, Javascript
 
@@ -16,5 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mahbub2001&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
