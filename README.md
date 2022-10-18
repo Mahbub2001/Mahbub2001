@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Mahbub2001&color=brightgreen)
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development<br><br>🌱 I’m currently learning Full-Stack Web Development<br><br>💬 Ask me about C, Python, Arduino, CSS, HTML, Javascript
+🔭 I’m currently working on Full-Stack Web Development<br><br>🌱 I’m currently learning java<br><br>💬 Ask me about C, Python, Arduino, CSS, HTML, Javascript
 
 
 ## 🌐 Socials:
