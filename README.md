@@ -17,7 +17,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=highcontrast&hide_border=false)<br/>
+      <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=highcontrast&hide_border=false"/>
 </td>
 <td width="50%" align="center">
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahbub2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
