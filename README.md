@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Mahbub2001/github-readme-stats)
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahbub2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=highcontrast&hide_border=false)<br/>
 
