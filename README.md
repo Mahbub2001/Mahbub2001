@@ -10,7 +10,9 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100076033624420) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub-ahmed-turza/) 
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=flat)](https://codeforces.com/profile/ahmed_prime)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=flat)](https://codeforces.com/profile/ahmed_prime)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=flat)](https://www.codechef.com/users/mahbub_ahmed01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/imahbubturza/)
 
 # 💻 Skills:
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
