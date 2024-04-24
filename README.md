@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
-![Machine Learning](https://img.shields.io/badge/-Machine-Learning-05122A?style=flat)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine--Learning-05122A?style=flat)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?logo=scikitlearn&logoColor=fff&style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-05122A?logo=numpy&logoColor=fff&style=flat)
 ![pandas](https://img.shields.io/badge/pandas-05122A?logo=pandas&logoColor=fff&style=flat)&nbsp;\
