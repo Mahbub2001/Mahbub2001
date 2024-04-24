@@ -22,7 +22,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
