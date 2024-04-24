@@ -17,7 +17,7 @@
 <table align="center" >
 <tr border="none">
 <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub2001&theme=algolia&hide_border=false"/>
+      <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahbub2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </td>
 <td width="50%" align="center">
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahbub2001&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
