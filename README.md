@@ -21,18 +21,21 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logoColor=FFA518)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-05122A?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/PyCharm-05122A.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 
 # 📊 GitHub Stats:
 
