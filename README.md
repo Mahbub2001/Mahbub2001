@@ -16,14 +16,14 @@
 
 <p align="">
 <a href="https://github.com/Mahbub2001">
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahbub2001&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-   <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+   <img  align=""  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mahbub2001&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+   <img align="" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </a>
 </p>
    
 <p align="">
 <a href="https://github.com/Mahbub2001">
-   <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahbub2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img  align=""  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahbub2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
