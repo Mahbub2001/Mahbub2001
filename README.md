@@ -22,13 +22,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![Mongo DB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-05122A?style=flat&logo=netlify&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-05122A?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/PyCharm-05122A.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
