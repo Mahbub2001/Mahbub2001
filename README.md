@@ -6,7 +6,13 @@
 ![](https://komarev.com/ghpvc/?username=Mahbub2001&color=brightgreen)
 
 # 💫 About Me:
-💻I am a competitive programmer<br><br>🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Machine Learning <br><br>💬 Ask me about C++,C, Python, , CSS, HTML, Javascript
+💻I am a competitive programmer<br><br>🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Machine Learning <br><br>💬 Ask me about C++,C, Python, , CSS, HTML, Javascript <br>
+Codeforces Specialist 
+<br/>
+CodeChef 3 star
+<br/>
+Leetcode contest top 20% 
+
 
 
 ## 🌐 Socials:
