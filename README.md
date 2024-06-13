@@ -1,3 +1,5 @@
+<img src="https://github.com/Mahbub2001/Mahbub2001/blob/main/mahbub.png" alt="mahbub-turza" />
+
 <h1 align="center">Hi 👋, I'm Mahbub Ahmed Turza</h1>
 <h3 align="center">A passionate programmer</h3>
 
