@@ -19,7 +19,7 @@
   <strong>Achievements:</strong><br>
   <span style="font-size: 1.2em;">🏅 Codeforces Specialist</span><br>
   <span style="font-size: 1.2em;">🥉 CodeChef 3 star</span><br>
-  <span style="font-size: 1.2em;">🏅 Leetcode contest top 20%</span>
+  <span style="font-size: 1.2em;">🏅 Leetcode contest top 12.7%</span>
 </p>
 
 ---
