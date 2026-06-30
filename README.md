@@ -44,6 +44,9 @@
 
 ## 🌐 Socials:
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=M-RkC8YAAAAJ&hl">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+</a>
   <a href="https://facebook.com/profile.php?id=100076033624420"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.linkedin.com/in/mahbub-ahmed-turza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://codeforces.com/profile/ahmed_prime"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=flat" alt="Codeforces"/></a>
