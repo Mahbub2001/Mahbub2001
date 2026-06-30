@@ -1,19 +1,37 @@
 <img src="https://github.com/Mahbub2001/Mahbub2001/blob/main/mahbub.png" alt="mahbub-turza" align="center" />
 
 <h1 align="center">Hi 👋, I'm Mahbub Ahmed Turza</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">Research Assistant | Computer Vision | Multimodal Learning | LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahbub2001&color=brightgreen" alt="profile views"/>
 </p>
 
-# 💫 About Me:
-- 💻 I am a competitive programmer
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about C++, C, Python, CSS, HTML, Javascript
+## 💫 About Me
+- 🎓 B.Sc. in Computer Science & Engineering
+- 🔬 Research Assistant working on Computer Vision, Multimodal Learning and Foundation Models
+- 🤖 Interested in Large Language Models, Vision-Language Models, Diffusion Models and Generative AI
+- 📚 Currently conducting research for top-tier AI conferences
+- 💻 Former Competitive Programmer
+- 🌱 Exploring efficient training, multimodal reasoning and AI systems
+- 📫 Reach me: your email
 
 ---
+
+## 🔬 Research Interests
+
+- Computer Vision
+- Vision-Language Models
+- Foundation Models
+- Large Language Models
+- Generative AI
+- Diffusion Models
+- Flow Matching
+- Efficient Training
+- Representation Learning
+- Medical AI
+  
+---  
 
 <p align="center">
   <strong>Achievements:</strong><br>
